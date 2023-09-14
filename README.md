@@ -1,12 +1,14 @@
-![Web Developer](https://media.licdn.com/dms/image/D4D16AQGJ_75q1jkquQ/profile-displaybackgroundimage-shrink_350_1400/0/1670510185365?e=1700092800&v=beta&t=lMYX1G3mlaya4ULwDoi8Ak_pIc49fluInKuZHCYdSsQ)
+![Web Developer](https://media.licdn.com/dms/image/D5616AQH-4M-QdOAAFg/profile-displaybackgroundimage-shrink_350_1400/0/1694698249656?e=1700092800&v=beta&t=GGyycga4XPeuLiMx9kpXwUt-rCixG6sNGvRvmhMQBqs)
 ### Hi there 👋, I am Poly Akhtar
 #### Web Developer
+
+
 I am Poly Akhtar. I am a front-end developer. I love to create a beautiful and performant website with delightful user experiences. 
 Contact me : 
 Email: poly.akhtar24@gmail.com
 Mobile: +8801865164256
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: HTML5/CSS/Tailwind CSS/Bootstrap/JavaScript/ReactJS/Firebase/NodeJS/ExpressJS/MongoDB
 
 - 🔭 I’m currently working on Vedic Energy 
 - 🌱 I’m currently learning TypeScript 
@@ -29,4 +31,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/polyakhtar)  
 
 ![Profile views](https://gpvc.arturio.dev/https://github.com/polyakhtar)  
-
